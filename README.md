@@ -1,7 +1,7 @@
-## Hi there 👋
+## Hi there, my name is Henry👋
 
 <!--
-**fi6540jx/fi6540jx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**fi6540jx/Henry Ngoko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
